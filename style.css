@@ -23,14 +23,19 @@ body {
     font-size: 1.2rem;
   }
   
+  
   section {
-    padding: 2rem 1rem;
-    max-width: 800px;
-    margin: auto;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem;
+  }
+
+  section h2 {
+    margin-bottom: 1.5rem;
   }
   
   .project-card {
-    background: #F5C74D;
+    background: #4f46e5;
     padding: 1rem;
     margin: 1rem 0;
     border-radius: 10px;
@@ -38,7 +43,7 @@ body {
   }
   
   .project-card a {
-    color: #4f46e5;
+    color: #F5C74D;
     text-decoration: none;
   }
   
