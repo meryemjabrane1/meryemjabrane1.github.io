@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background: #DDC5A9;
-    color: #333;
+    background: #8894B7;
+    color: #F5C74D;
   }
   
   header {
@@ -43,6 +43,7 @@ body {
   }
   
   .project-card a {
+    background: #8894B7;
     color: #F5C74D;
     text-decoration: none;
   }
